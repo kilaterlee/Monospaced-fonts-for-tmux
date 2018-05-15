@@ -7,4 +7,6 @@ on your local machine.
 ```
 git-clone https://github.com/kilaterlee/Monospaced-fonts-for-tmux.git  
 cd Monospaced-fonts-for-tmux/; ./install.sh  
+```  
+
 ***  
